@@ -1,4 +1,4 @@
 resource "aws_key_pair" "public-key" {
   key_name   = "adi-key"
-  public_key = "ssh-rsa AAxxxxxxcaxxxxxxxxxxxxxxAQDUmoVi/k64Q/4PkF1oDuGz7y/c2LT1SlZgaPsMVTtQoN3UH/K9j74R+zokfL9VX9eZj5woCEbADCQ8RhH2g8qLJv/Ie2EQ3gPMcF7gKjJUT7Hm8DU0woMjyxiagFzwg2USGz96KVrMilq7WFsmf1bZXIwAH1vwbw5na9VIvwjZrBk5qUcPSM9TnEqfMLCA5QkzEHJbGUwAPhIOJvYsw8AtqUMnhYn2GW4PZ9yoX0FfQojM4CUoABaIb3jlPDEen+u+p1zocXvOzRt2b+6BDt/az/uVAciK971pxUm72FE9kkAvAYBYf5U0DOnWliNLc2SbH6TsopKcuSiZYhYE8cFZ adityalogishetty@Adityas-MacBook-Pro.local"
+  public_key = "ssh-rsa AAxxxxxxcaxxxxxxxxxxxxxxAQLJv/Ie2EQ3Book-Pro.local"
 }
