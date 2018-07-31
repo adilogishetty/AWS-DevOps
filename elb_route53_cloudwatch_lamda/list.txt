@@ -1,0 +1,3 @@
+cloud watch
+route 53
+auto scaling group
