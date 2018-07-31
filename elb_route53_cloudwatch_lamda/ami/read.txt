@@ -1,0 +1,1 @@
+creating an ami needs to be in different folder as we are creating on an existing ami or ec2
