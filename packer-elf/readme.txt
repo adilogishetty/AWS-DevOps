@@ -1,2 +1,0 @@
-terraform
-packer-elb
